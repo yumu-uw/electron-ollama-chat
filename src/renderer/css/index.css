@@ -1,0 +1,9 @@
+body {
+	margin: 0 !important;
+}
+
+pre code:not(.hljs) {
+	display: block !important;
+	overflow-x: auto !important;
+	padding: 1em !important;
+}
